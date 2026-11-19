@@ -1,5 +1,11 @@
 # PwnKit-go-LPE (CVE-2021-4034)
 
+> [!NOTE]
+> **历史案例 · 补丁核对。** 判断修复状态，应以操作系统发行版的公告和已安装软件包为准，不应只看上游版本号。不要在生产主机上运行历史样本。
+>
+> [查看防御检查与记录建议](DEFENSIVE-NOTES.md)
+
+
 A golang based exp for CVE-2021-4034 dubbed pwnkit
 
 ``` bash
